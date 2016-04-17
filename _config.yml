@@ -1,0 +1,28 @@
+name: shabbat city
+favicon: null
+layout_spectrum: 0.1823789505288005
+typography_spectrum: 0.44219369790516794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6357773630879819
+  lightness: 0.10352737456560135
+  saturation: 0.5616306189913303
+  rhythmicContrast: 0.2218748889863491
+purpose: []
